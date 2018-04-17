@@ -1,0 +1,8 @@
+source https://nuget.org/api/v2
+
+nuget Suave
+nuget Suave.Swagger
+nuget Newtonsoft.Json
+nuget FSharp.Data.GraphQL.Server
+nuget FSharp.Data.GraphQL.Client
+nuget SwaggerProvider
